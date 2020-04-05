@@ -7,7 +7,7 @@ Decorator to measure the execution time of a method
 import time
 
 __author__ = "Álvaro González Jiménez"
-__license__ = "MIT"_
+__license__ = "MIT"
 __maintainer__ = "Álvaro González Jiménez"
 __email__ = "alvaro.gonzalez-jimenez@inria.fr"
 
